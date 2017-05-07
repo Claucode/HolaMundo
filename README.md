@@ -1,3 +1,0 @@
-# HolaMundo
-Primer repositorio
-MUNDO
